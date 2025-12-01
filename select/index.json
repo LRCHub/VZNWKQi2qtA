@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "0:00 (Prod. Funk Uchino)",
+  "base_artist": "電音部、Funk Uchino、白金 煌 (CV: 小宮有紗)",
+  "createdAt": "2025-12-01T19:31:13.824343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0.00",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/01_0.00_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "0:00",
+      "artist": "I Prevail",
+      "has_synced": true,
+      "path": "select/02_0_00_I_Prevail.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0.00",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/03_0.00_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AFTER 0:00",
+      "artist": "三千院ナギ(C.V.釘宮理恵) & マリア(C.V.田中理恵)",
+      "has_synced": true,
+      "path": "select/04_AFTER_0_00_三千院ナギ(C.V.釘宮理恵)_&_マリア(C.V.田中理恵).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AFTER 0:00",
+      "artist": "三千院ナギ (釘宮理恵) & マリア (田中理恵)",
+      "has_synced": true,
+      "path": "select/05_AFTER_0_00_三千院ナギ_(釘宮理恵)_&_マリア_(田中理恵).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "0:00",
+      "artist": "Otsochodzi",
+      "has_synced": false,
+      "path": "select/06_0_00_Otsochodzi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "0:00 Am",
+      "artist": "Cementerio De Elefantes",
+      "has_synced": true,
+      "path": "select/07_0_00_Am_Cementerio_De_Elefantes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "0.00 (We Are)",
+      "artist": "Childish Gambino",
+      "has_synced": false,
+      "path": "select/08_0.00_(We_Are)_Childish_Gambino.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "AFTER 0:00",
+      "artist": "eyelis",
+      "has_synced": true,
+      "path": "select/09_AFTER_0_00_eyelis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0:00 A.M.",
+      "artist": "Acid",
+      "has_synced": false,
+      "path": "select/pl_01_0_00_A.M._Acid.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "0:00 式日 - 2:51 実験Ⅰ",
+      "artist": "Acid",
+      "has_synced": false,
+      "path": "select/pl_02_0_00_式日_-_2_51_実験I_Acid.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "0:00am",
+      "artist": "Acid",
+      "has_synced": false,
+      "path": "select/pl_03_0_00am_Acid.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "0:00",
+      "artist": "Acid",
+      "has_synced": false,
+      "path": "select/pl_04_0_00_Acid.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "0:00 A.M.",
+      "artist": "Acid",
+      "has_synced": false,
+      "path": "select/pl_05_0_00_A.M._Acid.txt"
+    }
+  ]
+}
